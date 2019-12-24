@@ -29,7 +29,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.175"
-     inkscape:cx="1210.6255"
+     inkscape:cx="282.05407"
      inkscape:cy="917.79187"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
@@ -53,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
       </cc:Work>
@@ -106,7 +106,7 @@
     </g>
     <g
        id="g4756"
-       transform="matrix(1.5446667,-1.1188905,1.0978883,1.5156725,-114.82921,-48.157179)"
+       transform="matrix(1.5446667,-1.1188905,1.0978883,1.5156725,-117.85302,-54.204798)"
        style="fill:#ffffff;stroke:none;stroke-width:0.30616605;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <g
          id="g4687"
@@ -129,14 +129,26 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="95.621437"
-       y="-0.86623657"
+       x="162.40675"
+       y="-3.3731875"
        id="text914"
        transform="rotate(-35.497892)"><tspan
          sodipodi:role="line"
          id="tspan912"
-         x="95.621437"
-         y="-0.86623657"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.79999924px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#cccccc;stroke-width:0.26458332">Fennec Retreat</tspan></text>
+         x="162.40675"
+         y="-3.3731875"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70.55555725px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#cccccc;stroke-width:0.26458332">Fennec</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="163.63962"
+       y="237.43391"
+       id="text914-3"
+       transform="rotate(-35.497892)"><tspan
+         sodipodi:role="line"
+         id="tspan912-9"
+         x="163.63962"
+         y="237.43391"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70.55555725px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#cccccc;stroke-width:0.26458332">Retreat</tspan></text>
   </g>
 </svg>
